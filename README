@@ -1,1 +1,6 @@
-Simple script for parsing JSON files and then using the information found within.
+# File:        parser.rb
+# Descritpion: Ruby script that reads a pre-canned json file to extract product release information and RPM URLs.
+#              Mostly used to play around with how to parse josn and use the resulting attributes.
+#
+# Author:      Tom Dyer
+# GitHub:      http://github.com/tomdyer/JSONparser
